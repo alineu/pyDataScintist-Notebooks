@@ -1,5 +1,6 @@
 *.*
 !data/*.csv
+!data/*.tsv
 !**/*.ipynb 
 !Readme.txt
 !.gitignore
